@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "reformedtech:block/coke_oven_top",
+    "side": "reformedtech:block/coke_oven_side"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "reformedtech:block/coke_oven"
+    },
+    "lit=true": {
+      "model": "reformedtech:block/coke_oven_on"
+    }
+  }
+}
